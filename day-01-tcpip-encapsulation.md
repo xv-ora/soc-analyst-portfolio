@@ -12,4 +12,4 @@ Destination Port: 80
 
 TCP Flags: SYN
 
-#observed using wireshark on kali linux
+#Observed using wireshark on kali linux
